@@ -1,0 +1,1 @@
+# Bank Policy AI Organizer - Backend Application\n\nfrom fastapi import FastAPI\nfrom fastapi.middleware.cors import CORSMiddleware\n\n__version__ = \"2.0.0\"\n__author__ = \"Triveni AI Team\"\n
